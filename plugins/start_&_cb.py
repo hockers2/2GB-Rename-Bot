@@ -36,8 +36,8 @@ async def start(client, message):
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton("🧑🏻‍💻 Developer", callback_data='dev')
         ],[
-        InlineKeyboardButton('🤖 Update Channel', url='https://t.me/Star_Bots_Tamil'),
-        InlineKeyboardButton('👥 Support Group', url='https://t.me/Star_Bots_Tamil_Support')
+        InlineKeyboardButton('🤖 Update Channel', url='https://t.me/HG_Movies'),
+        InlineKeyboardButton('👥 Support Group', url='https://t.me/+eSMjCIJITH5lMTRl')
         ],[
         InlineKeyboardButton('🎛️ About', callback_data='about'),
         InlineKeyboardButton('🛠️ Help', callback_data='help')
@@ -58,8 +58,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup([[
                 InlineKeyboardButton("🧑🏻‍💻 Developer", callback_data='dev')
                 ],[
-                InlineKeyboardButton('🤖 Update Channel', url='https://t.me/Star_Bots_Tamil'),
-                InlineKeyboardButton('👥 Support Group', url='https://t.me/Star_Bots_Tamil_Support')
+                InlineKeyboardButton('🤖 Update Channel', url='https://t.me/HG_Movies'),
+                InlineKeyboardButton('👥 Support Group', url='https://t.me/+eSMjCIJITH5lMTRl')
                 ],[
                 InlineKeyboardButton('🎛️ About', callback_data='about'),
                 InlineKeyboardButton('🛠️ Help', callback_data='help')
@@ -71,9 +71,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🤖 Update Channel", url="https://t.me/Star_Bots_Tamil")
+                InlineKeyboardButton("🤖 Update Channel", url="https://t.me/HG_Movies")
                 ],[
-                InlineKeyboardButton("👥 Support Group", url='https://t.me/Star_Bots_Tamil_Support')
+                InlineKeyboardButton("👥 Support Group", url='https://t.me/+eSMjCIJITH5lMTRl')
                 ],[
                 InlineKeyboardButton("🔒 close", callback_data = "close"),
                 InlineKeyboardButton("🏠 Home", callback_data = "start")
@@ -85,9 +85,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🤖 Update Channel", url="https://t.me/Star_Bots_Tamil")
+                InlineKeyboardButton("🤖 Update Channel", url="https://t.me/HG_Movies")
                 ],[
-                InlineKeyboardButton("👥 Support Group", url="https://t.me/Star_Bots_Tamil_Support")
+                InlineKeyboardButton("👥 Support Group", url="https://t.me/+eSMjCIJITH5lMTRl")
                 ],[
                 InlineKeyboardButton("🔒 close", callback_data = "close"),
                 InlineKeyboardButton("🏠 Home", callback_data = "start")
@@ -99,9 +99,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🤖 Update Channel", url="https://t.me/Star_Bots_Tamil")
+                InlineKeyboardButton("🤖 Update Channel", url="https://t.me/HG_Movies")
                 ],[
-                InlineKeyboardButton("👥 Support Group", url="https://t.me/Star_Bots_Tamil_Support")
+                InlineKeyboardButton("👥 Support Group", url="https://t.me/+eSMjCIJITH5lMTRl")
                 ],[
                 InlineKeyboardButton("🔒 Close", callback_data = "close"),
                 InlineKeyboardButton("🏠 Home", callback_data = "start")
