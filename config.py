@@ -48,7 +48,7 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b>Hello 👋🏻 {} ❤️,\nI'm An Star Bots Tamil's Official Rename Bot. This is An Advanced and Yet Powerful Rename Bot.\nFor More Details Check /help\n\n➠ You Can Rename File / Video.\n➠ Change Thumbnail of Your File / Video.\n➠ Convert Video to File & File to Video.\nOur Bot Fully customisable\n➠ Permanent Thumbnail 🖼️ and Custom Caption ✍🏻.\n\nMaintenance By :- [Star Bots Tamil](https://t.me/Star_Bots_Tamil)</b>"""
+    START_TXT = """<b>Hello 👋🏻 {} ❤️,\nI'm An HG Anime Official Rename Bot. This is An Advanced and Yet Powerful Rename Bot.\nFor More Details Check /help\n\n➠ You Can Rename File / Video.\n➠ Change Thumbnail of Your File / Video.\n➠ Convert Video to File & File to Video.\nOur Bot Fully customisable\n➠ Permanent Thumbnail 🖼️ and Custom Caption ✍🏻.\n\nMaintenance By :- [HG_Movies](https://t.me/HG_Movies)</b>"""
 
     ABOUT_TXT = """<b>🤖 My Name :- {}\n
 🧑🏻‍💻 Developer :- <a href=https://t.me/TG_Karthik><b>Karthik</b></a>\n
@@ -56,8 +56,8 @@ class Txt(object):
 📚 Framework :- Pyrogram\n
 📡 Hosted on :- VPS\n
 💾 Database :- <a href=https://cloud.mongodb.com/>Mongo DB</a>\n
-🎥 Movie Updates :- <a href=https://t.me/Star_Moviess_Tamil><b></b>Star Movies Tamil</a>\n
-🤖 Bot Channel :- <a href=https://t.me/Star_Bots_Tamil><b></b>Star Bots Tamil</a></b>"""
+🎥 Movie Updates :- <a href=https://t.me/HG_Movies><b></b>Star Movies Tamil</a>\n
+🤖 Bot Channel :- <a href=https://t.me/HG_Movies><b></b>Star Bots Tamil</a></b>"""
 
     HELP_TXT = """
 <b><u>Available Commands</u>
@@ -93,17 +93,17 @@ Example :- `/set_caption 📁 File Name :- {filename}
 ➠ 🎥 Video
 ➠ 🎵 Audio
 
-⚠️ Contact For Any Problem :- [👥 Support Group](https://t.me/Star_Bots_Tamil_Support)</b>"""
+⚠️ Contact For Any Problem :- [👥 Support Group](https://t.me/+eSMjCIJITH5lMTRl)</b>"""
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>Special Thanks & Developer</b></u>
-<b>🧑🏻‍💻 Developer :- </b><a href=https://t.me/TG_Karthik><b>Karthik</b></a>"""
+<b>🧑🏻‍💻 Developer :- </b><a href=https://t.me/HG_ASSISTANT><b>Owner</b></a>"""
 
     PROGRESS_BAR = """<b>\n
 🚀 Speed :- {3}/sec\n
 💯 Percentage :- {0}%\n
 ✅ Done :- {1}\n
 💾 Size :- {2}\n
-⏰ Time Left :- {4}\n\n©️ [Star Bots Tamil](https://t.me/Star_Bots_Tamil)</b>"""
+⏰ Time Left :- {4}\n\n©️ [HG Anime](https://t.me/HG_Movies)</b>"""
 
 
